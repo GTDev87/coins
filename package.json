@@ -1,0 +1,11 @@
+{
+  "name": "coin_aggregator",
+  "description": "aggregates coin sites",
+  "version": "0.1.0",
+  "author": "mashwork team",
+  "dependencies": {
+    "request": "latest",
+    "mongoose": "latest",
+    "underscore": "latest"
+  }
+}
